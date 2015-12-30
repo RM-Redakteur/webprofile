@@ -2010,6 +2010,11 @@
 		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 	}
+	
+	.button {
+	margin-bottom: 16px;
+	text-align: center;
+}
 
 		input[type="button"]:hover,
 		input[type="submit"]:hover,
