@@ -50,6 +50,17 @@
 		font-weight: bold;
 		cursor: pointer;
 		} 
+		
+	.reveal-modal h2{
+		text
+		margin-bottom: 50px;
+		-moz-hyphens: auto;
+		-o-hyphens: auto;
+		-webkit-hyphens: auto;
+		-ms-hyphens: auto;
+		hyphens: auto; 
+	
+	}
 	/*
 		
 	NOTES
