@@ -2000,7 +2000,7 @@
 		text-align: center;
 		border-radius: 0.5em;
 		text-decoration: none;
-		padding: 0.65em 3em 0.65em 3em;
+		padding: 0.65em 1em 0.65em 1em;
 		border: 0;
 		cursor: pointer;
 		outline: 0;
@@ -2014,6 +2014,14 @@
 	.button {
 	margin-bottom: 16px;
 	text-align: center;
+}
+.buttonCloud {
+	background: #99bbff;
+	-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+		-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
+	
 }
 
 		input[type="button"]:hover,
