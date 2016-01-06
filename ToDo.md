@@ -5,3 +5,4 @@
 4. Fotos für Hobbys (Fahrradtour Alpen, Musik, Fotokunst)
 5. Prozessbeschreibung (Auszug), Dokumentationsdiagramm
 6. Illustrationsbeispiele. Messgeräte, Auspackanleitung, etc.
+7. Prozessschema für die Produktdatenverwaltung
