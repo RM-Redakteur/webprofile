@@ -1874,6 +1874,17 @@
 			padding-left: 0.25em;
 		}
 
+/* Definition List */		
+	dl dt {
+		font-size: 120%;
+		font-weight: 500;
+		margin-top: 19px;
+	}
+		
+	dl dd {
+		margin-left: 3%;
+	}
+		
 /* Form */
 
 	form label {
