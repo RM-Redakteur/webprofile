@@ -1885,6 +1885,12 @@
 		margin-left: 3%;
 	}
 		
+/* Titelsuffix */	
+
+	#titlesuffix {
+		font-size: 70%;
+	}
+		
 /* Form */
 
 	form label {
