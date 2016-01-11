@@ -51,6 +51,39 @@
 		cursor: pointer;
 		} 
 		
+		
+	#nextmodal1,
+	#nextmodal2,
+	#nextmodal3,
+	#nextmodal4,
+	#nextmodal5,
+	#nextmodal6,
+	#nextmodal7,
+	#nextmodal8,
+	#nextmodal9,
+	#nextmodal10{
+		position: absolute;
+		top: 10px;
+		right: 40px;
+		font-size: 15px;
+	}
+	
+	#prevmodal1,
+	#prevmodal2,
+	#prevmodal3,
+	#prevmodal4,
+	#prevmodal5,
+	#prevmodal6,
+	#prevmodal7,
+	#prevmodal8,
+	#prevmodal9,
+	#prevmodal10{
+		position: absolute;
+		top: 10px;
+		right: 60px;
+		font-size: 15px;
+	}
+		
 	.reveal-modal h2{
 		margin-bottom: 20px;
 		-moz-hyphens: auto;
