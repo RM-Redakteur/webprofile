@@ -1679,6 +1679,21 @@
 		top: 1em;
 		margin-bottom: 2em;
 	}
+	hr.llauf {
+	    margin-top: 1em;
+	    margin-bottom: 1em;
+	    visibility:hidden;
+	}
+	
+	table.llauf {
+	    text-align:left;
+	}
+	
+	table.llauf tbody tr td:first-child {
+	    
+	    font-weight:500;
+	    padding-right:1em;
+	}
 
 		hr:before, hr:after {
 			content: '';
