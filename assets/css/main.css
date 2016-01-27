@@ -1738,6 +1738,11 @@
 
 	header {
 		margin: 0 0 1em 0;
+		
+	}
+	header.sno-article {
+		padding-top:4.5em;
+		
 	}
 
 		header > p {
