@@ -1680,13 +1680,21 @@
 		margin-bottom: 2em;
 	}
 	hr.llauf {
-	    margin-top: 1em;
-	    margin-bottom: 1em;
+	
+	    /* padding-top: 1em;
+	    padding-bottom: 1em; */
+		margin-bottom: 1em;
+		margin-top: 1em;
+		/* vertical-align: middle; */
 	    visibility:hidden;
 	}
 	
 	table.llauf {
 	    text-align:left;
+		border: 1px;
+	}
+	table.llauf tbody tr {
+		border-bottom: 1px;
 	}
 	
 	table.llauf tbody tr td:first-child {
@@ -1789,7 +1797,7 @@
 		
 		.image.right {
 			float: right;
-			margin: 0 2em 0 2em;
+			margin: 0 0em 0 2em;
 		}
 
 		.image.centered {
